@@ -1,0 +1,10 @@
+[
+  {
+    "title": "DavRob Shell",
+    "description": "DavRob-Shell is a command line interpreter that we created as part of our learning during the first term. This project combines all the knowledge acquired and focuses on the implementation of a shell complete with commands.",
+    "source": "https://github.com/daviddlhz/simple_shell",
+    "preview": "https://github.com/daviddlhz/simple_shell",
+    "tags": ["C"],
+    "thumbnail": "/images/project/davrob-shell.png"
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "nav": {
+    "title": "dlhz.dev"
+  },
+  "hero": {
+    "title": "Front-End Angular Developer",
+    "text": "Hi, I'm David De La Hoz. A passionate Front-end Angular\n Developer from Barranquilla, Colombia.",
+    "image": "/images/avatar/dlhz.jpg"
+  },
+  "about": {
+    "title": "Front-end Developer from Barranquilla, Colombia",
+    "text": "Hi! I'm David De La Hoz, A passionate frontend developer with experience in Angular and other web technologies. My goal is to create attractive, efficient and easy to use web applications. ",
+    "subtitle": "About Me",
+    "image": "/images/about.webp"
+  },
+  "portfolio": {
+    "title": "Each project is a unique piece of development",
+    "subtitle": "PORTFOLIO"
+  },
+  "contact": {
+    "title": "Don't be shy! Hit me up! 👇",
+    "subtitle": "CONTACT"
+  }
+}

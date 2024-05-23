@@ -1,0 +1,14 @@
+[
+  {
+    "icon": "bx bx-at",
+    "title": "Email",
+    "link": "mailto:daviddlhzf@gmail.com",
+    "text": "daviddlhzf@gmail.com"
+  },
+  {
+    "icon": "bx bxl-whatsapp",
+    "title": "WhatsApp",
+    "link": "https://api.whatsapp.com/send?phone=573197064756",
+    "text": "+57 3197064756"
+  }
+]
