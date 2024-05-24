@@ -5,6 +5,6 @@
     "source": "https://github.com/daviddlhz/simple_shell",
     "preview": "https://github.com/daviddlhz/simple_shell",
     "tags": ["C"],
-    "thumbnail": "/images/project/davrob-shell.png"
+    "thumbnail": "./images/project/davrob-shell.png"
   }
 ]
