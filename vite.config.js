@@ -11,7 +11,7 @@ import { createHtmlPlugin } from "vite-plugin-html";
 
 export default defineConfig({
   build: {
-    outDir: './docs'
+    outDir: './dist'
   },
   plugins: [
     createHtmlPlugin({
